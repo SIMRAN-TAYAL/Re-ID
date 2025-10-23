@@ -58,7 +58,7 @@ Re-ID/
 - **Base Model**: ResNet50
 - **Feature Size**: 512 dimensions
 - **Training**: 60 epochs
-- **Loss**: Combined classification + similarity loss
+- **Loss**: Triplet loss
 
 ## Dataset Info
 
